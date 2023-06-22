@@ -1,0 +1,25 @@
+#nav-content {
+    background-color: blueviolet;
+    text-align: center;
+}
+#li-content {
+    text-decoration: none;
+    list-style: none;   
+}
+#li-content a{
+    color: aliceblue;
+    text-decoration: none;
+    list-style: none;   
+}
+#img-1 {
+    height: 600px;
+    width: 900px;
+}
+#img-2 {
+    height: 600px;
+    width: 900px;
+}
+#img-3 {
+    height: 600px;
+    width: 900px;
+}
